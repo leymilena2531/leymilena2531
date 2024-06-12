@@ -1,4 +1,4 @@
-![Mi foto](https://www.canva.com/design/DAGH4DsZd9E/cTRUMBX0LPX5LUaQqc5NtA/edit)
+
 
 
 ## Hi there 👋
