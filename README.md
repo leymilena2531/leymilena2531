@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Soy una Analista de Datos graduada en Henry con más de 6 años de experiencia en el análisis de datos para la toma de decisiones estratégicas. En mi puesto anterior, aumenté las ventas en un 15% en un año y reduje el tiempo de atención al cliente en un 20%. Me apasiona aprender cosas nuevas y me motiva sentirme importante y valorada en el trabajo. Soy una persona proactiva, dispuesta a trabajar en equipo y a aportar mis conocimientos para el éxito de la empresa. Manejo herranientas como Microsoft SQL server, Power BI Desktop, Visual Studio Code, Microsoft office, Git Bash, entre otras y tengo conocimientos de lenguaje de programacion python y algo de java y c++
 <!--
 **leymilena2531/leymilena2531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
