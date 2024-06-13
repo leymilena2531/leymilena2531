@@ -9,7 +9,7 @@ Me presento mi  nombre es leidy
 
 🚩 Manejo herramientas como Microsoft SQL server, Power BI Desktop, Visual Studio Code, Microsoft office, Git Bash, entre otras y tengo conocimientos de lenguaje de programacion python y algo de java y C++
 
-💵 En mi puesto anterior, aumente las ventas en un 15% en un año y redugj el tiempo de atención al cliente en un 20%. 
+💵 En mi puesto anterior, aumente las ventas en un 15% en un año y reduje el tiempo de atención al cliente en un 20%. 
 
 🎬 Me apasiona aprender cosas nuevas y me motiva sentirme importante y valorada en el trabajo. 
 
