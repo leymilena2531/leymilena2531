@@ -5,7 +5,7 @@
 ## Hi there 👋
 Me presento mi  nombre es leidy 
 
-👩🏻 Soy una Analista de Datos graduada en Henry con más de 6 años de experiencia en el análisis de datos para la toma de decisiones estratégicas. 
+👩🏻 Soy una Analista de Datos graduada en Henry con más de 6 años de trabajo en análisis de datos basicos para la toma de decisiones estratégicas.
 
 🚩 Manejo herramientas como Microsoft SQL server, Power BI Desktop, Visual Studio Code, Microsoft office, Git Bash, entre otras y tengo conocimientos de lenguaje de programacion python y algo de java y CSS
 
