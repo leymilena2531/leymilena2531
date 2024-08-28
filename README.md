@@ -21,8 +21,7 @@ Me presento mi  nombre es leidy
 
 📩 leymilena2531@gmail.com 
 
-💻 https://www.linkedin.com/in/leidy-milena-loaiza-086a4a249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+💻 https://www.linkedin.com/in/leidy-milena-loaiza
 🚨https://youtu.be/GPLvMyPJk6Q
 
 
